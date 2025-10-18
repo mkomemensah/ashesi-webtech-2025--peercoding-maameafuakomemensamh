@@ -1,0 +1,9 @@
+I based my work on the HTML, CSS and JS from the previous activity but added PHP
+The main page (index.php) is my Faculty Intern Dashboard where the courses show up as cards. 
+I added a form on that page that allows someone to register a new course and send the info to another PHP page (register.php).
+
+Files I used:
+- index.php → main dashboard and form page
+- register.php → displays the form data
+- style.css → my design from the previous activity
+- script.js → adds the dynamic course cards
